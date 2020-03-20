@@ -2,7 +2,9 @@
 Affine Cipher
 ====================
 
-The program can do both encryption and decryption. Lowercase characters a-z will be encrypted/decrypted to lowercase characters. Uppercase characters A-Z will be encrypted/decrypted to uppercase characters. Other characters not in the range (a-z, A-Z) will be unchanged.
+The program can do both encryption and decryption. Lowercase characters a-z will be encrypted/decrypted to lowercase
+characters. Uppercase characters A-Z will be encrypted/decrypted to uppercase characters. Other characters not in the range
+(a-z, A-Z) will be unchanged.
 
 The program can accept the following parameters: 
 = flag to indicate encryption or decryption
