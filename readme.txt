@@ -1,4 +1,4 @@
-Implementation of Affine Cipher
+# Implementation of Affine Cipher
 
 𝐶 = 𝑎𝑀+𝑏 (𝑚𝑜𝑑 26)
 where
